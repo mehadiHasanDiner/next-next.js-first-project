@@ -1,0 +1,176 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "asdafaf",
+            "imgUrl": "https://example.com/item1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Item 2",
+            "imgUrl": "https://example.com/item2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Item 3",
+            "imgUrl": "https://example.com/item3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Item 4",
+            "imgUrl": "https://example.com/item4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Item 5",
+            "imgUrl": "https://example.com/item5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Item 6",
+            "imgUrl": "https://example.com/item6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Item 7",
+            "imgUrl": "https://example.com/item7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Item 8",
+            "imgUrl": "https://example.com/item8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Item 9",
+            "imgUrl": "https://example.com/item9.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Item 10",
+            "imgUrl": "https://example.com/item10.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 12",
+            "price": 999,
+            "categoryId": 1,
+            "features": [
+                "A14 Bionic chip",
+                "Super Retina XDR display",
+                "Dual-camera system"
+            ],
+            "imageUrl": "https://example.com/iphone12.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Samsung Galaxy S21",
+            "price": 1099,
+            "categoryId": 1,
+            "features": [
+                "Exynos 2100 chip",
+                "Dynamic AMOLED 2X display",
+                "Triple-camera system"
+            ],
+            "imageUrl": "https://example.com/galaxy_s21.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Google Pixel 6",
+            "price": 799,
+            "categoryId": 1,
+            "features": [
+                "Google Tensor chip",
+                "OLED display",
+                "Dual-camera system"
+            ],
+            "imageUrl": "https://example.com/pixel6.jpg"
+        },
+        {
+            "id": 4,
+            "title": "MacBook Pro 2021",
+            "price": 1499,
+            "categoryId": 2,
+            "features": [
+                "Apple M1 chip",
+                "Retina display",
+                "Touch Bar"
+            ],
+            "imageUrl": "https://example.com/macbookpro2021.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Dell XPS 13",
+            "price": 1199,
+            "categoryId": 2,
+            "features": [
+                "Intel Core i7 processor",
+                "InfinityEdge display",
+                "Ultra-thin design"
+            ],
+            "imageUrl": "https://example.com/dellxps13.jpg"
+        },
+        {
+            "id": 6,
+            "title": "HP Spectre x360",
+            "price": 1299,
+            "categoryId": 2,
+            "features": [
+                "Intel Core i7 processor",
+                "4K touchscreen display",
+                "360-degree hinge"
+            ],
+            "imageUrl": "https://example.com/hpspectrex360.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Sony PlayStation 5",
+            "price": 499,
+            "categoryId": 3,
+            "features": [
+                "AMD Ryzen processor",
+                "Ultra-HD Blu-ray",
+                "SSD storage"
+            ],
+            "imageUrl": "https://example.com/ps5.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Xbox Series X",
+            "price": 499,
+            "categoryId": 3,
+            "features": [
+                "Custom AMD processor",
+                "4K gaming",
+                "SSD storage"
+            ],
+            "imageUrl": "https://example.com/xboxseriesx.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Nintendo Switch",
+            "price": 299,
+            "categoryId": 3,
+            "features": [
+                "Hybrid console",
+                "Handheld and docked modes",
+                "Joy-Con controllers"
+            ],
+            "imageUrl": "https://example.com/nintendoswitch.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Canon EOS R5",
+            "price": 3899,
+            "categoryId": 4,
+            "features": [
+                "45MP full-frame sensor",
+                "8K video recording",
+                "In-body image stabilization"
+            ],
+            "imageUrl": "https://example.com/canoneosr5.jpg"
+        }
+    ]
+}
